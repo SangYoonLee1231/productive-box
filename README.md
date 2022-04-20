@@ -20,4 +20,4 @@
 </p>
 
 - GH_TOKEN : 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
-- GIST_ID : b6a79d7c507e5ccb63ecd51965c812ed
+- GIST_ID : bdb9b34e731762b4b700187bbd3124e3
