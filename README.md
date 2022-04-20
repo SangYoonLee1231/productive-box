@@ -51,4 +51,5 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 
 
 
-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
+GH_TOKEN : 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
+GIST_ID : b6a79d7c507e5ccb63ecd51965c812ed
