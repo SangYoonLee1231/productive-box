@@ -51,4 +51,4 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 
 
 
-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
+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
