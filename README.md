@@ -18,6 +18,3 @@
    <br/>
    Let's check out in gist!
 </p>
-
-- GH_TOKEN : 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
-- GIST_ID : bdb9b34e731762b4b700187bbd3124e3
